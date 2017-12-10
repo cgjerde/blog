@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: `/kawaii-coding`,
   siteMetadata: {
     title: `Kawaii Coding`,
   },
